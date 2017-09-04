@@ -77,5 +77,5 @@ function getToken() {
   //change to your token to run in browser, but set
   //back to '' before committing so all tests pass
   // return ''
-  return '70510ae4478d63c234bb777aa59304fb9005e1a7'
+  return ''
 }
